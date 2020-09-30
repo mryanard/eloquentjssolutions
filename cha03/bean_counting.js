@@ -1,3 +1,5 @@
+//Bean Counting
+
 const countChar = (word, char) => {
 	let counter = 0;
   	for(let i = 0; i < word.length; i++){

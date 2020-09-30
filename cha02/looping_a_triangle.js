@@ -1,3 +1,5 @@
+//Looping A Triangle
+
 let counter = 0;
 while(counter < 7){
   let mot = "#";

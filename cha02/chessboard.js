@@ -1,3 +1,5 @@
+//Chessboard
+
 let cha = " ";
 let chessboard = "";
 let size = 10;
